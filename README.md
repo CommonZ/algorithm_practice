@@ -1,4 +1,4 @@
-# algorithm_practice
+# Algorithm practice
 Some algorithm practice.
 
 # Introducation
